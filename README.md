@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkauf42&count_private=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkauf42&count_private=true&theme=dracula)
 
 <!--
