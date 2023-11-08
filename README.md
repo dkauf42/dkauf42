@@ -1,6 +1,12 @@
-### Hi there 👋
+### Daniel Kaufman
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkauf42&count_private=true&theme=dracula)
+> :warning: I have two GitHub profiles! See my work profile
+> [@danielfromearth](https://github.com/danielfromearth)
+
+#### More about me
+
+- 😄 Pronouns: He
+- 🧪 [My ORCID](https://orcid.org/0000-0002-1487-7298)
 
 <!--
 **dkauf42/dkauf42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
